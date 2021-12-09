@@ -7,12 +7,17 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This project will be an online video game character catalog. It is an informational application for video games characters in a specific game. 
+The game may be persona 5 from the sub series persona. 
+The main series is called Shin Megami Tensei.
 ### Features
-Include Features here
+Will be able to search for charater information in the game.
+The mouse pointer will be a logo from persona.
+Able to make and login into an account.
 ### Technologies
-Include Technologies here
+Java, html
 ### What I'll Have to Learn
-Include what you will need to learn here
+Learn how to make an image replace the mouse pointer completely.
 ### Project Tracker
 Link to your Trello board here
+https://trello.com/b/nSKbtcZm/project-1
